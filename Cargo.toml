@@ -1,0 +1,6 @@
+[package]
+name = "ttt"
+version = "0.1.0"
+authors = ["Alex S. Marinenko <alex.marinenko@gmail.com>"]
+
+[dependencies]
